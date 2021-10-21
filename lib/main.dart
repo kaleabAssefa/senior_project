@@ -5,6 +5,7 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
+  static final String title = 'Upload Flutter to git hub';
   const MyApp({Key? key}) : super(key: key);
 
   // This widget is the root of your application.
